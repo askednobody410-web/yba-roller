@@ -1,0 +1,170 @@
+D4CLT|Destructive Power|1|2
+D4CLT|Destructive Power|2|2
+D4CLT|Destructive Power|3|3
+D4CLT|Destructive Power|4|3
+D4CLT|Destructive Power|5|4
+D4CLT|Pocket Revolver|1|2
+D4CLT|Quick Draw|1|1
+D4CLT|Quick Draw|2|2
+D4CLT|Quick Draw|3|2
+D4CLT|Quick Draw|4|2
+D4CLT|Quick Draw|5|2
+D4CLT|Love Train|1|3
+D4CLT|Dimensional Self Clones|1|3
+D4CLT|Clone Swap|1|0
+D4CLT|Dimensional Searcher|1|3
+D4CLT|Flash Mob|1|2
+D4CLT|Dimensional Traveler|1|2
+D4CLT|Dimensional Traveler|2|3
+D4CLT|Misfortune Redirection|1|1
+D4CLT|Misfortune Redirection|2|2
+D4CLT|Misfortune Redirection|3|2
+D4CLT|Misfortune Redirection|4|3
+D4CLT|Misfortune Redirection|5|3
+D4CLT|Dimensional Victim Clone|1|2
+Cream|Devastation|1|2
+Cream|Dark Space|1|2
+Cream|Void Surprise|1|1
+Cream|Dimensional Hop|1|1
+Cream|Madness Sorrow|1|3
+Cream|Destructive Power|1|1
+Cream|Destructive Power|2|2
+Cream|Destructive Power|3|2
+Cream|Destructive Power|4|2
+Cream|Infinite Void|1|1
+Cream|Infinite Void|2|1
+Cream|Infinite Void|3|2
+Cream|Infinite Void|4|2
+Cream|Infinite Void|5|2
+Cream|Devour|1|1
+Cream|Devour|2|2
+Cream|Devour|3|2
+Cream|Devour|4|3
+Cream|Devour|5|4
+Cream|Void Mastery|1|1
+Cream|Void Mastery|2|2
+Cream|Void Mastery|3|2
+Cream|Void Mastery|4|2
+Cream|Void Mastery|5|2
+CD|Rage Counter|1|2
+CD|Shard Shot|1|2
+CD|Crazy Wall|1|2
+CD|Yo Angelo!|1|2
+CD|Crazy Beatdown|1|4
+CD|Heal Mode|1|1
+CD|Destructive Power|1|1
+CD|Destructive Power|2|2
+CD|Destructive Power|3|3
+CD|Destructive Power|4|3
+CD|Destructive Power|5|4
+CD|Precision|1|1
+CD|Precision|2|1
+CD|Precision|3|1
+CD|Precision|4|1
+CD|Precision|5|1
+CD|Anger Issues|1|1
+CD|Anger Issues|2|1
+CD|Anger Issues|3|1
+CD|Anger Issues|4|1
+CD|Anger Issues|5|1
+CD|Anger Issues|6|1
+CD|Constant Rage|1|1
+CD|Constant Rage|2|2
+CD|Constant Rage|3|2
+CD|Constant Rage|4|2
+CD|Constant Rage|5|2
+SP|Inhale|1|2
+SP|Star Finger|1|2
+SP|Ora Kicks|1|2
+SP|Platinum Slam|1|2
+SP|Stand Jump|1|1
+SP|Time Skip|1|2
+SP|The World|1|4
+SP|Rage Mode|1|2
+SP|Time Stop Resistance|1|1
+SP|Destructive Power|1|2
+SP|Destructive Power|2|2
+SP|Destructive Power|3|3
+SP|Destructive Power|4|3
+SP|Destructive Power|5|4
+SP|Stand Jump Upgrade|1|1
+SP|Stand Jump Upgrade|2|1
+SP|Stand Jump Upgrade|3|2
+SP|Constant Rage|1|1
+SP|Constant Rage|2|2
+SP|Constant Rage|3|2
+SP|Anger Issues|1|1
+SP|Anger Issues|2|2
+SP|Anger Issues|3|2
+SP|Time Stop Mastery|1|1
+SP|Time Stop Mastery|2|2
+SP|Time Stop Mastery|3|3
+6P|Reload 6P|1|0
+6P|Shoot Six Pistols|1|0
+6P|Rapid Fire|1|3
+6P|Redirection Barrage|1|3
+6P|Prone Shot|1|3
+6P|Multi Shot|1|2
+6P|Double Reload|1|5
+6P|Stand Finisher|1|0
+6P|Reloading|1|1
+6P|Reloading|2|2
+6P|Reloading|3|2
+6P|Reloading|4|2
+6P|Reloading|5|2
+6P|Quickest Hand In The West|1|2
+6P|Quickest Hand In The West|2|3
+6P|Quickest Hand In The West|3|3
+6P|Redirection|1|2
+6P|Redirection|2|3
+6P|Redirection|3|3
+6P|Marksman|1|2
+6P|Marksman|2|2
+6P|Marksman|3|2
+6P|Lithe|1|1
+6P|Lithe|2|1
+6P|Lithe|3|2
+KC|Epitaph|1|2
+KC|Chop|1|3
+KC|Impale|1|3
+KC|Blood Slash|1|2
+KC|Time Skip|1|3
+KC|Time Erase|1|4
+KC|Chop Passive (Epitaph)|1|3
+KC|Hemorrhaging Strike (Chop)|1|1
+KC|Destructive Power|1|1
+KC|Destructive Power|2|2
+KC|Destructive Power|3|2
+KC|Destructive Power|4|3
+KC|Destructive Power|5|3
+KC|Future Sight|1|1
+KC|Future Sight|2|2
+KC|Future Sight|3|2
+KC|Future Sight|4|3
+KC|Future Sight|5|3
+KC|Time Erase Mastery|1|2
+KC|Time Erase Mastery|2|2
+KC|Time Erase Mastery|3|3
+KC|Time Erase Mastery|4|3
+KC|Time Erase Mastery|5|4
+Aero|Vola Barrage|1|0
+Aero|Propeller Charge|1|0
+Aero|Air Support|1|3
+Aero|Carbon Dioxide Radar|1|2
+Aero|Pilot|1|2
+Aero|Big Man|1|4
+Aero|Little Boy|1|2
+Aero|Stocked Magazines|1|3
+Aero|Artillery|1|4
+Aero|Mastered Piloting|1|3
+Aero|Wingman|1|6
+Aero|Sharpness|1|1
+Aero|Sharpness|2|1
+Aero|Sharpness|3|1
+Aero|Sharpness|4|1
+Aero|Sharpness|5|2
+Aero|Stand Range|1|1
+Aero|Stand Range|2|1
+Aero|Stand Range|3|2
+Aero|Stand Range|4|2
+Aero|Stand Range|5|2
