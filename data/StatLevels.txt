@@ -1,0 +1,24 @@
+Vitality|1|1
+Vitality|2|1
+Vitality|3|1
+Vitality|4|2
+Vitality|5|2
+Vitality|6|2
+Vitality|7|2
+Vitality|8|3
+Vitality|9|3
+Vitality|10|3
+Agility|1|1
+Agility|2|1
+Agility|3|2
+Agility|4|2
+Agility|5|2
+Sturdiness|1|1
+Sturdiness|2|1
+Sturdiness|3|1
+Health Regen|1|1
+Health Regen|2|1
+Health Regen|3|2
+Health Regen|4|2
+Health Regen|5|2
+Health Regen|6|2
