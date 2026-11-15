@@ -3,7 +3,7 @@ Sword Style|Pluck|
 Vampirism|Vamp|
 Spin|Spin|
 Hamon|Hamon|
-Caesar Hamon|Caesar|Hamon
-Joseph Hamon|Joseph|Hamon
-William Hamon|William|Hamon
-Johnathan Hamon|Johnathan|Hamon
+Caesar Hamon|Caesar
+Joseph Hamon|Joseph
+William Hamon|William
+Johnathan Hamon|Johnathan
