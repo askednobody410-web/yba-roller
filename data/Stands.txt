@@ -1,0 +1,46 @@
+Beach Boy|BB|Arrow
+Mr. President|Mr P|Arrow
+Hermit Purple|HP|Arrow
+Cream|Cream|Arrow
+Anubis|Anubis|Arrow
+Aerosmith|Aero|Arrow
+White Album|WA|Arrow
+The Hand|TH|Arrow
+Sticky Fingers|SF|Arrow
+Six Pistols|6P|Arrow
+Silver Chariot|SC|Arrow
+Red Hot Chilli Pepper|RHCP|Arrow
+Purple Haze|PH|Arrow
+Magician's Red|MR|Arrow
+Hierophant Green|HG|Arrow
+White Snake|WS|Arrow
+The World|TW|Arrow
+Stone Free|SF6|Arrow
+Star Platinum|SP|Arrow
+King Crimson|KC|Arrow
+Killer Queen|KQ|Arrow
+Gold Experience|GE|Arrow
+Crazy Diamond|CD|Arrow
+The World Alternative Universe|TWAU|RibCage
+Soft & Wet|SAW|RibCage
+Tusk Act 1|TA1|RibCage
+Scary Monsters|SM|RibCage
+D4C|D4C|RibCage
+Golden Experience Requiem|GER|Evolved
+King Crimson Requiem|KCR|Evolved
+Crazy Diamond Requiem|CDR|Evolved
+Silver Chariot Requiem|SCR|Evolved
+Star Platinum : The World|SPTW|Evolved
+Killer Queen : Bites The Dust|KQBTD|Evolved
+D4C : Love Train|D4CLT|Evolved
+Soft & Wet : Go Beyond|SAWGB|Evolved
+Tusk Act 2|TA2|Evolved
+Tusk Act 3|TA3|Evolved
+Tusk Act 4|TA4|Evolved
+The World Over Heaven|TWOH|Evolved
+Made In Heaven|MIH|Evolved
+CMOON|CMOON|Evolved
+Weather Report|WR|Evolved
+Chilli Pepper Alternative Universe|CPAU|Evolved
+Shadow The World|STW|Evolved
+Diver Down|DD|Evolved
