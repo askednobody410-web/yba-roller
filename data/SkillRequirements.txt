@@ -1,0 +1,552 @@
+D4CLT|Destructive Power|2|Destructive Power|1|1
+D4CLT|Destructive Power|3|Destructive Power|2|1
+D4CLT|Destructive Power|4|Destructive Power|3|1
+D4CLT|Destructive Power|5|Destructive Power|4|1
+D4CLT|Quick Draw|1|Pocket Revolver|1|1
+D4CLT|Quick Draw|2|Quick Draw|1|1
+D4CLT|Quick Draw|3|Quick Draw|2|1
+D4CLT|Quick Draw|4|Quick Draw|3|1
+D4CLT|Quick Draw|5|Quick Draw|4|1
+D4CLT|Dimensional Self Clones|1|Love Train|1|1
+D4CLT|Clone Swap|1|Dimensional Self Clones|1|1
+D4CLT|Dimensional Searcher|1|Dimensional Self Clones|1|1
+D4CLT|Flash Mob|1|Dimensional Searcher|1|1
+D4CLT|Dimensional Traveler|1|Dimensional Self Clones|1|1
+D4CLT|Dimensional Traveler|2|Dimensional Traveler|1|1
+D4CLT|Misfortune Redirection|1|Love Train|1|1
+D4CLT|Misfortune Redirection|2|Misfortune Redirection|1|1
+D4CLT|Misfortune Redirection|3|Misfortune Redirection|2|1
+D4CLT|Misfortune Redirection|4|Misfortune Redirection|3|1
+D4CLT|Misfortune Redirection|5|Misfortune Redirection|4|1
+D4CLT|Dimensional Victim Clone|1|Misfortune Redirection|2|1
+Cream|Dark Space|1|Devastation|1|1
+Cream|Void Surprise|1|Dark Space|1|1
+Cream|Madness Sorrow|1|Destructive Power|4|1
+Cream|Destructive Power|2|Destructive Power|1|1
+Cream|Destructive Power|3|Destructive Power|2|1
+Cream|Destructive Power|4|Destructive Power|3|1
+Cream|Infinite Void|1|Dimensional Hop|1|1
+Cream|Infinite Void|2|Infinite Void|1|1
+Cream|Infinite Void|3|Infinite Void|2|1
+Cream|Infinite Void|4|Infinite Void|3|1
+Cream|Infinite Void|5|Infinite Void|4|1
+Cream|Devour|1|Dark Space|1|1
+Cream|Devour|2|Devour|1|1
+Cream|Devour|3|Devour|2|1
+Cream|Devour|4|Devour|3|1
+Cream|Devour|5|Devour|4|1
+Cream|Void Mastery|1|Void Surprise|1|1
+Cream|Void Mastery|2|Void Mastery|1|1
+Cream|Void Mastery|3|Void Mastery|2|1
+Cream|Void Mastery|4|Void Mastery|3|1
+Cream|Void Mastery|5|Void Mastery|4|1
+CD|Shard Shot|1|Constant Rage|2|1
+CD|Crazy Wall|1|Heal Mode|1|1
+CD|Yo Angelo!|1|Heal Mode|1|1
+CD|Crazy Beatdown|1|Destructive Power|5|1
+CD|Crazy Beatdown|1|Constant Rage|5|1
+CD|Heal Mode|1|Destructive Power|3|1
+CD|Destructive Power|2|Destructive Power|1|1
+CD|Destructive Power|3|Destructive Power|2|1
+CD|Destructive Power|4|Yo Angelo!|1|1
+CD|Destructive Power|5|Destructive Power|4|1
+CD|Precision|1|Crazy Wall|1|1
+CD|Precision|2|Precision|1|1
+CD|Precision|3|Precision|2|1
+CD|Precision|4|Precision|3|1
+CD|Precision|5|Precision|4|1
+CD|Anger Issues|1|Shard Shot|1|1
+CD|Anger Issues|2|Anger Issues|1|1
+CD|Anger Issues|3|Anger Issues|2|1
+CD|Anger Issues|4|Anger Issues|3|1
+CD|Anger Issues|5|Anger Issues|4|1
+CD|Anger Issues|6|Anger Issues|5|1
+CD|Constant Rage|1|Rage Counter|1|1
+CD|Constant Rage|2|Constant Rage|1|1
+CD|Constant Rage|3|Shard Shot|1|1
+CD|Constant Rage|4|Constant Rage|3|1
+CD|Constant Rage|5|Constant Rage|4|1
+SP|Star Finger|1|Destructive Power|1|1
+SP|Ora Kicks|1|Destructive Power|4|1
+SP|Platinum Slam|1|Destructive Power|5|1
+SP|Stand Jump|1|Destructive Power|3|1
+SP|Time Skip|1|Time Stop Resistance|1|1
+SP|The World|1|Time Skip|1|1
+SP|Time Stop Resistance|1|Rage Mode|1|1
+SP|Destructive Power|2|Destructive Power|1|1
+SP|Destructive Power|3|Destructive Power|2|1
+SP|Destructive Power|4|Destructive Power|3|1
+SP|Destructive Power|5|Destructive Power|4|1
+SP|Stand Jump Upgrade|1|Stand Jump|1|1
+SP|Stand Jump Upgrade|2|Stand Jump Upgrade|1|1
+SP|Stand Jump Upgrade|3|Stand Jump Upgrade|2|1
+SP|Constant Rage|1|Rage Mode|1|1
+SP|Constant Rage|2|Constant Rage|1|1
+SP|Constant Rage|3|Constant Rage|2|1
+SP|Anger Issues|1|Rage Mode|1|1
+SP|Anger Issues|2|Anger Issues|1|1
+SP|Anger Issues|3|Anger Issues|2|1
+SP|Time Stop Mastery|1|The World|1|1
+SP|Time Stop Mastery|2|Time Stop Mastery|1|1
+SP|Time Stop Mastery|3|Time Stop Mastery|2|1
+6P|Shoot Six Pistols|1|Reload 6P|1|1
+6P|Rapid Fire|1|Shoot Six Pistols|1|1
+6P|Redirection Barrage|1|Shoot Six Pistols|1|1
+6P|Prone Shot|1|Rapid Fire|1|1
+6P|Multi Shot|1|Prone Shot|1|1
+6P|Double Reload|1|Reloading|3|1
+6P|Reloading|1|Reload 6P|1|1
+6P|Reloading|2|Reloading|1|1
+6P|Reloading|3|Reloading|2|1
+6P|Reloading|4|Double Reload|1|1
+6P|Reloading|5|Reloading|4|1
+6P|Quickest Hand In The West|1|Redirection|1|1
+6P|Quickest Hand In The West|2|Quickest Hand In The West|1|1
+6P|Quickest Hand In The West|3|Quickest Hand In The West|2|1
+6P|Redirection|1|Multi Shot|1|1
+6P|Redirection|2|Redirection|1|1
+6P|Redirection|3|Redirection|2|1
+6P|Marksman|1|Shoot Six Pistols|1|1
+6P|Marksman|2|Marksman|1|1
+6P|Marksman|3|Marksman|2|1
+6P|Lithe|1|Stand Finisher|1|1
+6P|Lithe|2|Lithe|1|1
+6P|Lithe|3|Lithe|2|1
+KC|Chop|1|Destructive Power|2|1
+KC|Impale|1|Destructive Power|4|1
+KC|Blood Slash|1|Time Erase Mastery|1|1
+KC|Time Skip|1|Future Sight|3|1
+KC|Time Erase|1|Time Skip|1|1
+KC|Chop Passive (Epitaph)|1|Future Sight|4|1
+KC|Hemorrhaging Strike (Chop)|1|Chop|1|1
+KC|Destructive Power|2|Destructive Power|1|1
+KC|Destructive Power|3|Destructive Power|2|1
+KC|Destructive Power|4|Destructive Power|3|1
+KC|Destructive Power|5|Destructive Power|4|1
+KC|Future Sight|2|Future Sight|1|1
+KC|Future Sight|3|Future Sight|2|1
+KC|Future Sight|4|Future Sight|3|1
+KC|Future Sight|5|Future Sight|4|1
+KC|Time Erase Mastery|1|Time Erase|1|1
+KC|Time Erase Mastery|2|Time Erase Mastery|1|1
+KC|Time Erase Mastery|3|Time Erase Mastery|2|1
+KC|Time Erase Mastery|4|Time Erase Mastery|3|1
+KC|Time Erase Mastery|5|Time Erase Mastery|4|1
+Aero|Propeller Charge|1|Vola Barrage|1|1
+Aero|Air Support|1|Propeller Charge|1|1
+Aero|Carbon Dioxide Radar|1|Vola Barrage|1|1
+Aero|Pilot|1|Carbon Dioxide Radar|1|1
+Aero|Big Man|1|Air Support|1|1
+Aero|Little Boy|1|Pilot|1|1
+Aero|Stocked Magazines|1|Big Man|1|1
+Aero|Artillery|1|Little Boy|1|1
+Aero|Mastered Piloting|1|Pilot|1|1
+Aero|Wingman|1|Air Support|1|1
+Aero|Sharpness|1|Air Support|1|1
+Aero|Sharpness|2|Sharpness|1|1
+Aero|Sharpness|3|Sharpness|2|1
+Aero|Sharpness|4|Sharpness|3|1
+Aero|Sharpness|5|Sharpness|4|1
+Aero|Stand Range|1|Pilot|1|1
+Aero|Stand Range|2|Stand Range|1|1
+Aero|Stand Range|3|Stand Range|2|1
+Aero|Stand Range|4|Stand Range|3|1
+Aero|Stand Range|5|Stand Range|4|1
+D4C|Destructive Power|2|Destructive Power|1|1
+D4C|Destructive Power|3|Destructive Power|2|1
+D4C|Destructive Power|4|Destructive Power|3|1
+D4C|Destructive Power|5|Destructive Power|4|1
+D4C|Chop|1|Destructive Power|3|1
+D4C|Hemorrhaging Strike|1|Chop|1|1
+D4C|Quick Draw|1|Pocket Revolver|1|1
+D4C|Quick Draw|1|Dimensional Hop|1|1
+D4C|Quick Draw|2|Quick Draw|1|1
+D4C|Quick Draw|3|Quick Draw|2|1
+D4C|Quick Draw|4|Quick Draw|3|1
+D4C|Quick Draw|5|Quick Draw|4|1
+D4C|Dimensional Self Clones|1|Dimensional Hop|1|1
+D4C|Clone Swap|1|Dimensional Searcher|1|1
+D4C|Dimensional Searcher|1|Dimensional Self Clones|1|1
+D4C|Flash Mob|1|Dimensional Searcher|1|1
+D4C|Combustible Clones|1|Dimensional Searcher|1|1
+D4C|Dimensional Traveler|1|Dimensional Self Clones|1|1
+D4C|Dimensional Traveler|2|Dimensional Traveler|1|1
+D4C|Dimension Control|1|Dimensional Hop|1|1
+D4C|Dimension Control|2|Dimension Control|1|1
+D4C|Dimension Control|3|Dimension Control|2|1
+D4C|Dimension Control|4|Dimension Control|3|1
+D4C|Dimension Control|5|Dimension Control|4|1
+SPTW|Destructive Power|2|Destructive Power|1|1
+SPTW|Destructive Power|3|Destructive Power|2|1
+SPTW|Destructive Power|4|Destructive Power|3|1
+SPTW|Destructive Power|5|Platinum Slam|1|1
+SPTW|Precision|1|Combat Precision|1|1
+SPTW|Precision|2|Precision|1|1
+SPTW|Precision|3|Precision|2|1
+SPTW|Platinum Slam|1|Destructive Power|4|1
+SPTW|Ora Kicks|1|Destructive Power|5|1
+SPTW|Bearing Shot|1|Ora Kicks|1|1
+SPTW|Ora Beatdown|1|Bearing Shot|1|1
+SPTW|The World|1|Time Skip|1|1
+SPTW|The World|1|Ora Beatdown|1|1
+SPTW|Time Skip|1|Timestop Resistance|1|1
+SPTW|Skull Crusher|1|Timestop Resistance|1|1
+SPTW|Timestop Mastery|1|The World|1|1
+SPTW|Timestop Mastery|2|Timestop Mastery|1|1
+WA|Ice Swipe|1|Ice Punch|1|1
+WA|Ice Sweeps|1|Ice Punch|1|1
+WA|Range|1|Flash Freeze|1|1
+WA|Range|2|Range|1|1
+WA|Range|3|Range|2|1
+WA|Armor|1|Ice Armor|1|1
+WA|Armor|2|Armor|1|1
+WA|Armor|3|Armor|2|1
+WA|Stamina|1|Gently Weeps|1|1
+WA|Stamina|2|Stamina|1|1
+WA|Stamina|3|Stamina|2|1
+WA|Speed|1|Ice Skating|1|1
+WA|Speed|2|Speed|1|1
+WA|Speed|3|Speed|2|1
+WA|Precision|1|Cryokinesis|1|1
+WA|Precision|2|Precision|1|1
+WA|Precision|3|Precision|2|1
+WA|Mastered Ice Manipulation|1|Ice Punch|1|1
+HP|Vine Trap|1|Grapple|1|1
+HP|Double Vine Slap|1|Vine Mastery|2|1
+HP|Vine Mastery|1|Grapple|1|1
+HP|Vine Mastery|2|Vine Mastery|1|1
+HP|Vine Mastery|3|Vine Mastery|2|1
+HP|Vine Mastery|4|Vine Mastery|3|1
+HP|Vine Mastery|5|Vine Mastery|4|1
+HP|Joestar Technique Mastery|1|Joestar Technique|1|1
+HP|Joestar Technique Mastery|2|Joestar Technique Mastery|1|1
+HP|Joestar Technique Mastery|3|Joestar Technique Mastery|2|1
+HP|Hamon Efficiency|1|Hamon Combination|1|1
+HP|Hamon Efficiency|2|Hamon Efficiency|1|1
+HP|Hamon Efficiency|3|Hamon Efficiency|2|1
+TH|Erasure Pull|1|Erasure|1|1
+TH|Erasure Accelerate|1|Erasure|1|1
+TH|Second Erasure|1|Erasure Mastery|3|1
+TH|Erasure Mastery|1|Erasure|1|1
+TH|Erasure Mastery|2|Erasure Mastery|1|1
+TH|Erasure Mastery|3|Erasure Mastery|2|1
+TH|Erasure Mastery|4|Erasure Mastery|3|1
+TH|Erasure Mastery|5|Erasure Mastery|4|1
+TH|Accelerate Mastery|1|Erasure Accelerate|1|1
+TH|Accelerate Mastery|2|Accelerate Mastery|1|1
+TH|Accelerate Mastery|3|Accelerate Mastery|2|1
+TH|Pull|1|Erasure Pull|1|1
+TH|Pull|2|Pull|1|1
+TH|Pull|3|Pull|2|1
+HG|Hierophant's Field|1|Marionette Control|1|1
+HG|20 Meter Emerald Splash|1|Emerald Splash|1|1
+HG|Clarity|1|Emerald Splash|1|1
+HG|Clarity|2|Clarity|1|1
+HG|Clarity|3|Clarity|2|1
+HG|Clarity|4|Clarity|3|1
+HG|Clarity|5|Clarity|4|1
+HG|Puppet Master|1|Marionette Control|1|1
+HG|Puppet Master|2|Puppet Master|1|1
+HG|Puppet Master|3|Puppet Master|2|1
+HG|Puppet Master|4|Puppet Master|3|1
+HG|Puppet Master|5|Puppet Master|4|1
+HG|Tentacles|1|Hierophant's Field|1|1
+HG|Tentacles|2|Tentacles|1|1
+HG|Tentacles|3|Tentacles|2|1
+HG|Emeralds|1|20 Meter Emerald Splash|1|1
+HG|Emeralds|2|Emeralds|1|1
+HG|Emeralds|3|Emeralds|2|1
+HG|Stand Speed|1|Pilot|1|1
+HG|Stand Speed|2|Stand Speed|1|1
+HG|Stand Speed|3|Stand Speed|2|1
+HG|Stand Speed|4|Stand Speed|3|1
+HG|Stand Range|1|Pilot|1|1
+HG|Stand Range|2|Stand Range|1|1
+HG|Stand Range|3|Stand Range|2|1
+HG|Stand Range|4|Stand Range|3|1
+WS|Disc Upgrade|1|Spirit Disc|1|1
+WS|Disc Upgrade|1|Memory Disc|1|1
+WS|Disc Upgrade|2|Disc Upgrade|1|1
+WS|Disc Upgrade|3|Disc Upgrade|2|1
+WS|Disc Upgrade|4|Disc Upgrade|3|1
+WS|Disc Upgrade|5|Disc Upgrade|4|1
+WS|Poisoning|1|Acidic Spew|1|1
+WS|Poisoning|2|Poisoning|1|1
+WS|Poisoning|3|Poisoning|2|1
+WS|Stand Range|1|Pilot|1|1
+WS|Stand Range|2|Stand Range|1|1
+WS|Stand Range|3|Stand Range|2|1
+WS|Stand Speed|1|Pilot|1|1
+WS|Stand Speed|2|Stand Speed|1|1
+WS|Stand Speed|3|Stand Speed|2|1
+TW|Throw Knife|1|The Greatest High|1|1
+TW|Throw Knife Upgrade|1|Throw Knife|1|1
+TW|Triple the Knives|1|Throw Knife Upgrade|1|1
+TW|Megalomania|2|Megalomania|1|1
+TW|Megalomania|3|Megalomania|2|1
+TW|Road Roller|1|Megalomania|2|1
+TW|Bloodlust|2|Bloodlust|1|1
+TW|Bloodlust|3|Bloodlust|2|1
+TW|Destructive Power|2|Destructive Power|1|1
+TW|Destructive Power|3|Destructive Power|2|1
+TW|Destructive Power|4|Destructive Power|3|1
+TW|Destructive Power|5|Destructive Power|4|1
+TW|Road Sign Slam|1|Destructive Power|2|1
+TW|Kick Barrage|1|Destructive Power|4|1
+TW|The World|1|Time Stop Resistance|1|1
+TW|Shinei|1|The World|1|1
+TW|Time Skip|1|The World|1|1
+TW|Time Stop Mastery|1|The World|1|1
+TW|Time Stop Mastery|2|Time Stop Mastery|1|1
+TW|Time Stop Mastery|3|Time Stop Mastery|2|1
+GE|Destructive Power|2|Destructive Power|1|1
+GE|Destructive Power|3|Destructive Power|2|1
+GE|Destructive Power|4|Destructive Power|3|1
+GE|Destructive Power|5|Destructive Power|4|1
+GE|Kick Barrage|1|Destructive Power|2|1
+GE|7 Page Beatdown|1|Destructive Power|5|1
+GE|Distribution|1|Self Distribution|1|1
+GE|Distribution|2|Distribution|1|1
+GE|Distribution|3|Distribution|2|1
+GE|Life Distribution|1|Distribution|2|1
+GE|Life Giver|1|Summon Tree|1|1
+GE|Life Creation|1|Summon Tree|1|1
+GE|Life Manipulation|1|Life Creation|1|1
+GE|Life Manipulation|2|Life Manipulation|1|1
+GE|Life Manipulation|3|Life Manipulation|2|1
+GE|Life Manipulation|4|Life Manipulation|3|1
+MR|Red Bind|1|Pyrokinesis|2|1
+MR|Bakugo|1|Destructive Power|3|1
+MR|Crossfire Hurricane Special|1|Pyrokinesis|2|1
+MR|Pyrokinesis|1|Crossfire Hurricane|1|1
+MR|Pyrokinesis|2|Pyrokinesis|1|1
+MR|Pyrokinesis|3|Pyrokinesis|2|1
+MR|Pyrokinesis|4|Pyrokinesis|3|1
+MR|Pyrokinesis|5|Pyrokinesis|4|1
+MR|Binding|1|Red Bind|1|1
+MR|Binding|2|Binding|1|1
+MR|Binding|3|Binding|2|1
+MR|Cross Manipulation|1|Crossfire Hurricane Special|1|1
+MR|Cross Manipulation|2|Cross Manipulation|1|1
+MR|Cross Manipulation|3|Cross Manipulation|2|1
+MR|Destructive Power|1|Pyrokinesis|3|1
+MR|Destructive Power|2|Destructive Power|1|1
+MR|Destructive Power|3|Destructive Power|2|1
+Mr P|Kidnap|1|Enter Room|1|1
+Mr P|Stand Finisher|1|Kidnap|1|1
+Mr P|Shake Key|1|Stand Finisher|1|1
+Mr P|Empty Room|1|Enter Room|1|1
+Mr P|Restock Supplies|1|Enter Room|1|1
+Mr P|Shell Form|1|Shaker|2|1
+Mr P|Turtle Form|1|Shaker|3|1
+Mr P|Shaker|1|Shake Key|1|1
+Mr P|Shaker|2|Shaker|1|1
+Mr P|Shaker|3|Shaker|2|1
+Mr P|Shaker|4|Shaker|3|1
+Mr P|Shaker|5|Shaker|4|1
+Mr P|Kidnapping|1|Kidnap|1|1
+Mr P|Kidnapping|2|Kidnapping|1|1
+Mr P|Kidnapping|3|Kidnapping|2|1
+Mr P|Kidnapping|4|Kidnapping|3|1
+Mr P|Kidnapping|5|Kidnapping|4|1
+TWAU|Destructive Power|2|Destructive Power|1|1
+TWAU|Destructive Power|3|Destructive Power|2|1
+TWAU|Destructive Power|4|Destructive Power|3|1
+TWAU|Destructive Power|5|Destructive Power|4|1
+TWAU|Chop|1|Destructive Power|4|1
+TWAU|Hemorrhaging Strike|1|Chop|1|1
+TWAU|Throw Knife|1|Destructive Power|2|1
+TWAU|Throw Knife Upgrade|1|Throw Knife|1|1
+TWAU|Throw Knife Upgrade|2|Throw Knife Upgrade|1|1
+TWAU|Triple the Knives|1|Throw Knife Upgrade|1|1
+TWAU|Time Skip|1|Time Stop Resistance|1|1
+TWAU|The World|1|Time Skip|1|1
+TWAU|Time Stop Mastery|1|The World|1|1
+TWAU|Time Stop Mastery|2|Time Stop Mastery|1|1
+TWAU|Time Stop Mastery|3|Time Stop Mastery|2|1
+TWAU|Quick Draw|1|Pocket Revolver|1|1
+TWAU|Quick Draw|2|Quick Draw|1|1
+TWAU|Quick Draw|3|Quick Draw|2|1
+TWAU|Swift Ordnance|1|Quick Draw|2|1
+TWAU|Smoke Grenade|1|Pocket Revolver|1|1
+TWAU|Frag Grenade|1|Smoke Grenade|1|1
+SC|Million Pricks|1|Destructive Power|3|1
+SC|Million Pricks|1|Last Shot Upgrade|2|1
+SC|Cycle Slash|1|Million Pricks Upgrade|3|1
+SC|Destructive Power|2|Destructive Power|1|1
+SC|Destructive Power|3|Destructive Power|2|1
+SC|Last Shot Upgrade|1|Last Shot|1|1
+SC|Last Shot Upgrade|2|Last Shot Upgrade|1|1
+SC|Million Pricks Upgrade|1|Million Pricks|1|1
+SC|Million Pricks Upgrade|2|Million Pricks Upgrade|1|1
+SC|Million Pricks Upgrade|3|Million Pricks Upgrade|2|1
+SC|Cycle Slash Upgrade|1|Cycle Slash|1|1
+SC|Cycle Slash Upgrade|2|Cycle Slash Upgrade|1|1
+SC|Cycle Slash Upgrade|3|Cycle Slash Upgrade|2|1
+Anubis|Cursed Imbued Slice|1|G.O.D|1|1
+Anubis|Cursed Blade|1|Tough Spirit|1|1
+Anubis|Touch Of Death|1|G.O.D|1|1
+Anubis|Touch Of Death|2|Touch Of Death|1|1
+Anubis|Touch Of Death|3|Touch Of Death|2|1
+Anubis|Touch Of Death|4|Touch Of Death|3|1
+Anubis|Touch Of Death|5|Supernatural Swordplay|1|1
+Anubis|Tough Spirit|1|Cursed Imbued Slice|1|1
+Anubis|Supernatural Swordplay|1|Touch Of Death|4|1
+Anubis|Stand Speed|2|Stand Speed|1|1
+Anubis|Stand Speed|3|Stand Speed|2|1
+RHCP|Electrify|1|Electric Guitar|1|1
+RHCP|Electric Flash|1|Electrify|1|1
+RHCP|Electric Discharge|1|Electrify|1|1
+RHCP|Guitarist|1|Electric Guitar|1|1
+RHCP|Guitarist|2|Guitarist|1|1
+RHCP|Guitarist|3|Guitarist|2|1
+RHCP|Persistence|1|Electrify|1|1
+RHCP|Persistence|2|Persistence|1|1
+RHCP|Persistence|3|Persistence|2|1
+RHCP|Stand Range|2|Stand Range|1|1
+RHCP|Stand Range|3|Stand Range|2|1
+RHCP|Stand Speed|2|Stand Speed|1|1
+RHCP|Stand Speed|3|Stand Speed|2|1
+RHCP|Charged Lightning Jabs|1|Lightning Jabs|1|1
+RHCP|Charged Pinky Slash|1|Pinky Slash|1|1
+RHCP|Tough Spirit|1|Electrify|1|1
+RHCP|Charged Electric Discharge|1|Electric Discharge|1|1
+RHCP|Charged Electric Flash|1|Electric Flash|1|1
+RHCP|Electric Imbued Combat|1|Electrify|1|1
+SM|Potent Virus|1|Dino Virus|1|1
+SM|Potent Virus|2|Potent Virus|1|1
+SM|Potent Virus|3|Potent Virus|2|1
+SM|Potent Virus|4|Potent Virus|3|1
+SM|Potent Virus|5|Potent Virus|4|1
+SM|Form Mastery|1|Dino Full Form|1|1
+SM|Form Mastery|2|Dino Full Form|1|1
+SM|Form Mastery|3|Form Mastery|1|1
+SM|Form Mastery|4|Form Mastery|2|1
+SM|Form Mastery|5|Form Mastery|3|1
+SM|Dino Dash|1|Form Mastery|4|1
+SM|Dash Mastery|1|Dino Dash|1|1
+SM|Dash Mastery|2|Dash Mastery|1|1
+SM|Tail Whip|1|Form Mastery|5|1
+SM|Tail Mastery|1|Tail Whip|1|1
+SM|Tail Mastery|2|Tail Mastery|1|1
+SM|Fossilization|1|Form Mastery|1|1
+SM|Persistence|1|Fossilization|1|1
+SM|Persistence|2|Persistence|1|1
+SM|Persistence|3|Persistence|2|1
+SM|Persistence|4|Persistence|3|1
+SM|Persistence|5|Persistence|4|1
+SM|Dino Barrage|1|Fossilization|1|1
+SM|Sharper Claws|1|Dino Barrage|1|1
+SM|Sharper Claws|2|Dino Barrage|1|1
+SM|Dino Army|1|Sharper Claws|1|1
+SM|New Recruit|1|Dino Army|1|1
+SM|Precision|1|New Recruit|1|1
+SM|Precision|2|Precision|1|1
+SM|Precision|2|Speed|2|2
+SM|Bird Whisperer|1|Dino Army|1|1
+SM|Speed|1|Bird Whisperer|1|1
+SM|Speed|2|Speed|1|1
+SF6|Destructive Power|2|Destructive Power|1|1
+SF6|Destructive Power|3|Destructive Power|2|1
+SF6|Destructive Power|4|Destructive Power|3|1
+SF6|Destructive Power|5|Destructive Power|4|1
+SF6|Destructive Power|5|String Slam|1|2
+SF6|String Lasso|1|Destructive Power|1|1
+SF6|Home Run|1|String Lasso|1|1
+SF6|String Beatdown|1|Range|2|1
+SF6|Range|2|Range|1|1
+SF6|Range|3|Range|2|1
+SF6|String Slam|1|Destructive Power|3|1
+SF6|String Bandage|1|Destructive Power|5|1
+SF6|Ora Kicks|1|Destructive Power|2|1
+SF6|String Barrier|1|Destructive Power|4|1
+SF6|Persistence|1|String Barrier|1|1
+SF6|Persistence|2|Persistence|1|1
+SF6|Persistence|3|Persistence|2|1
+SF6|Precision|1|String Bandage|1|1
+SF6|Precision|2|Precision|1|1
+SF6|Precision|3|Precision|2|1
+TA1|Acquired Taste|1|Tea Time|1|1
+TA1|Acquired Taste|2|Acquired Taste|1|1
+TA1|Focused Nail Shot|1|Nail Shots|1|1
+TA1|Fingernail Glide|1|Nail Shots|1|1
+TA1|Fingernail Glide|1|Nail Slash|1|1
+TA1|Glide Upgrade|1|Fingernail Glide|1|1
+TA1|Glide Upgrade|2|Glide Upgrade|1|1
+SF|Living Zippers|1|Zipper Extension|1|1
+SF|Zipper Slam|1|Destructive Power|1|1
+SF|Zipper Explosion|1|Destructive Power|3|1
+SF|Arrivederci Beatdown|1|Stand Range|5|1
+SF|Arrivederci Beatdown|1|Destructive Power|5|1
+SF|Stand Range|1|Zipper Extension|1|1
+SF|Stand Range|2|Stand Range|1|1
+SF|Stand Range|3|Stand Range|2|1
+SF|Stand Range|4|Stand Range|3|1
+SF|Stand Range|5|Stand Range|4|1
+SF|Destructive Power|2|Destructive Power|1|1
+SF|Destructive Power|3|Destructive Power|2|1
+SF|Destructive Power|4|Zipper Explosion|1|1
+SF|Destructive Power|5|Destructive Power|4|1
+SF|Stand Precision Mastery|1|Zipper Explosion|1|1
+SF|Stand Stamina Mastery|1|Stand Range|3|1
+TA2|Golden Rectangle Nail|1|Nail Shots|1|1
+TA2|Wormhole Nails|1|Golden Rectangle Nail|1|1
+TA2|Wormhole Nail Upgrade|1|Wormhole Nails|1|1
+TA2|Acquired Taste|1|Tea Time|1|1
+TA2|Acquired Taste|2|Acquired Taste|1|1
+TA2|Acquired Taste|3|Acquired Taste|2|1
+TA2|Fingernail Glide|1|Nail Slash|1|1
+TA2|Fingernail Glide|1|Tea Time|1|1
+TA2|Glide Upgrade|1|Fingernail Glide|1|1
+TA2|Glide Upgrade|2|Glide Upgrade|1|1
+TA2|Glide Upgrade|3|Glide Upgrade|2|1
+SAW|Destructive Power|2|Destructive Power|1|1
+SAW|Destructive Power|3|Destructive Power|2|1
+SAW|Destructive Power|4|Destructive Power|3|1
+SAW|Destructive Power|5|Shovel Barrage|1|1
+SAW|Shovel Barrage|1|Destructive Power|4|1
+SAW|Friction Beatdown|1|Destructive Power|5|1
+SAW|Bubble Generation|1|Friction Beatdown|1|1
+SAW|Moisture|1|Moisture Plunder|1|1
+SAW|Moisture|2|Moisture|1|1
+SAW|Moisture|3|Moisture|1|1
+SAW|Bubble Prison|1|Moisture|2|1
+SAW|Persistence|1|Bubble Prison|1|1
+SAW|Persistence|2|Persistence|1|1
+SAW|Persistence|3|Persistence|2|1
+SAW|Persistence|4|Persistence|3|1
+SAW|Persistence|5|Persistence|4|1
+SAW|Vision Plunder|1|Moisture|3|1
+SAW|Plundering|1|Vision Plunder|1|1
+SAW|Plundering|2|Plundering|1|1
+SAW|Plundering|3|Plundering|2|1
+SAW|Plundering|4|Plundering|3|1
+SAW|Plundering|5|Plundering|4|1
+TA3|Golden Rectangle Nail|1|Nail Shots|1|1
+TA3|Wormhole Nails|1|Nail Shots|1|1
+TA3|Wormhole Nail Upgrade|1|Wormhole Nails|1|1
+TA3|Wormhole Uppercut|1|Wormhole Nails|1|1
+TA3|Acquired Taste|1|Tea Time|1|1
+TA3|Acquired Taste|2|Acquired Taste|1|1
+TA3|Acquired Taste|3|Acquired Taste|2|1
+TA3|Acquired Taste|4|Acquired Taste|3|1
+TA3|Fingernail Glide|1|Nail Slash|1|1
+TA3|Glide Upgrade|1|Fingernail Glide|1|1
+TA3|Glide Upgrade|2|Glide Upgrade|1|1
+TA3|Glide Upgrade|3|Glide Upgrade|2|1
+TA4|Destructive Power|2|Destructive Power|1|1
+TA4|Destructive Power|3|Destructive Power|2|1
+TA4|Destructive Power|4|Destructive Power|3|1
+TA4|Arigato Gyro|1|Destructive Power|1|1
+TA4|Acquired Taste|1|Tea Time|1|1
+TA4|Acquired Taste|2|Acquired Taste|1|1
+TA4|Acquired Taste|3|Acquired Taste|2|1
+TA4|Glide Upgrade|1|Fingernail Glide|1|1
+TA4|Glide Upgrade|2|Glide Upgrade|1|1
+TA4|Glide Upgrade|3|Glide Upgrade|2|1
+TA4|Infinite Rotation Mastery|1|Infinite Rotation|1|1
+TA4|Golden Rectangle Nail|1|Nail Shots|1|1
+TA4|Wormhole Nails|1|Nail Shots|1|1
+TA4|Wormhole Uppercut|1|Wormhole Nails|1|1
+TA4|Wormhole Nail Upgrade|1|Wormhole Nails|1|1
+TA4|Wormhole Nail Upgrade|2|Wormhole Nail Upgrade|1|1
